@@ -1,0 +1,4 @@
+/home/arya/project/simp-calc/CMakeFiles/rebuild_cache.dir
+/home/arya/project/simp-calc/CMakeFiles/edit_cache.dir
+/home/arya/project/simp-calc/CMakeFiles/calculator.dir
+/home/arya/project/simp-calc/CMakeFiles/calculator_autogen.dir
